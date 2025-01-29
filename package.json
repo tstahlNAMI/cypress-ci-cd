@@ -1,0 +1,15 @@
+{
+  "name": "cypress-ci-cd",
+  "version": "1.0.0",
+  "description": "cypress ci/cd setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cypress-ci-cd"
+  },
+  "author": "",
+  "license": "ISC"
+}
